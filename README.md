@@ -1,4 +1,4 @@
-# RAG_Unsaidtalks_FAQ
+# RAG Unsaidtalks FAQ RAG Chatbot
 
 ## UnsaidTalks Q&A: AI-Powered Question Answering System Using Google Gemini, LangChain, and FAISS
 
