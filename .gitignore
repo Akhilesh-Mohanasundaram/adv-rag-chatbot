@@ -1,0 +1,44 @@
+# Environment and secrets
+.env
+.env.*
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# Test and type-check caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.tox/
+.nox/
+
+# Streamlit
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
+.ipynb
+
+# Build and distribution artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Local vector store / generated indexes
+faiss_index/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
